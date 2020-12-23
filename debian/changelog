@@ -1,3 +1,9 @@
+rtl8821cu (5.4.1~televic10+2) buster-televic-unstable; urgency=medium
+
+  * debian: override non-unique license
+
+ -- Marc Leeman <m.leeman@televic.com>  Wed, 23 Dec 2020 09:38:52 +0100
+
 rtl8821cu (5.4.1~televic10+1) buster-televic-unstable; urgency=medium
 
   * Build for buster-televic-unstable
