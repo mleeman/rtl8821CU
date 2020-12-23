@@ -1,3 +1,9 @@
+rtl8821cu (5.4.1~televic10+4) buster-televic-unstable; urgency=medium
+
+  * control.modules.in: depend on bc for build
+
+ -- Marc Leeman <m.leeman@televic.com>  Wed, 23 Dec 2020 10:06:07 +0100
+
 rtl8821cu (5.4.1~televic10+3) buster-televic-unstable; urgency=medium
 
   * debian: source is architecture all
