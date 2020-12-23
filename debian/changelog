@@ -1,6 +1,6 @@
-rtl8821cu (5.4.1) unstable; urgency=medium
+rtl8821cu (5.4.1~televic10+1) buster-televic-unstable; urgency=medium
 
   * Build for buster-televic-unstable
   * Initial release
 
- -- Marc Leeman <m.leeman@televic.com>  Fri, 18 Oct 2019 13:46:27 +0200
+ -- Marc Leeman <m.leeman@televic.com>  Wed, 23 Dec 2020 09:27:28 +0100
